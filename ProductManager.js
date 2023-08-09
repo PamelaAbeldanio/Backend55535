@@ -104,3 +104,5 @@ if (updateResult) {
 
 productManager.deleteProduct(3);
 console.log("All products after deletion:", productManager.getProducts());
+
+module.exports = ProductManager;

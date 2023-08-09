@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Updated Smartphone",
+    "description": "Un smartphone de última generación",
+    "price": 799.99,
+    "thumbnail": "smartphone.jpg",
+    "code": "PHN01",
+    "stock": 50,
+    "id": 1
+  },
+  {
+    "title": "Laptop",
+    "description": "Una laptop potente para trabajo y entretenimiento",
+    "price": 1299.99,
+    "thumbnail": "laptop.jpg",
+    "code": "LTP02",
+    "stock": 25,
+    "id": 2
+  },
+  {
+    "title": "Laptop",
+    "description": "Una laptop potente para trabajo y entretenimiento",
+    "price": 1299.99,
+    "thumbnail": "laptop.jpg",
+    "code": "LTP02",
+    "stock": 25,
+    "id": 4
+  },
+  {
+    "title": "Headphones",
+    "description": "Audífonos inalámbricos con gran calidad de sonido",
+    "price": 99.99,
+    "thumbnail": "headphones.jpg",
+    "code": "HDN03",
+    "stock": 100,
+    "id": 5
+  }
+]
